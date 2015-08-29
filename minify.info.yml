@@ -1,0 +1,7 @@
+name: "Minify"
+description: "Provides a mechanism to minify HTML and JavaScript files."
+package: Performance and scalability
+core: 8.x
+project: "minify"
+
+
